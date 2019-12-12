@@ -1,0 +1,37 @@
+# OSX specific
+.DS_Store
+
+# specific app settings
+.git
+.rnpm
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs
+.logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+bower_components
+node_modules
+jspm_packages
+yarn.lock
+
+# dotenv environment variable files
+.env*
+
+# nore specific
+.nore
+/uploads
+db.sqlite
+config/nginx*
+uploads/*
+nore

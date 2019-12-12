@@ -1,0 +1,16 @@
+url: http://playground.nore
+
+aliases:
+  $components: ~/client/components
+  $client: ~/client
+
+client:
+  template:
+    path: client/index.html
+    fonts:
+      - https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Poppins:300,400,700&display=swap
+    meta:
+      url: "https://playground.ro"
+      title: "ADD TITLE IN TEMPLATE"
+      description: "ADD TITLE IN TEMPLATE"
+      image: "/featured.png"

@@ -1,0 +1,17 @@
+{
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"client": "nore develop client --debug",
+		"server": "nore develop server --debug",
+		"client:build": "nore build client --debug",
+		"server:build": "nore build server --debug"
+	},
+	"workspaces": [
+		"nore/packages/*"
+	],
+	"dependencies": {
+		"@nore/std": "^1.10.0",
+		"@nore/css-defaults": "^1.0.0"
+	}
+}
