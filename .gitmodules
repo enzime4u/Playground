@@ -1,0 +1,3 @@
+[submodule "nore"]
+	path = nore
+	url = git@github.com:ugin/cms.git
