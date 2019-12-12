@@ -1,0 +1,8 @@
+.container {
+  width: 400px;
+  margin: 5rem auto;
+  background-color: rgb(200, 218, 252);
+  display: flex;
+  flex-direction: column;
+  border-radius: 3%;
+}

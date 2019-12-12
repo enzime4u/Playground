@@ -1,0 +1,12 @@
+.container {
+  position: absolute;
+  top: 25%;
+  left: 2.7rem;
+}
+
+.smallHeading {
+  transform: rotate(-90deg);
+  color: #b1b2b7;
+  font-size: 10ru;
+  font-weight: 600;
+}

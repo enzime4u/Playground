@@ -1,0 +1,13 @@
+.price_tag {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  background-color: #4bb390;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  font-size: 11ru;
+  font-weight: bold;
+  text-align: center;
+}

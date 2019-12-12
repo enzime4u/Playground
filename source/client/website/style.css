@@ -1,0 +1,8 @@
+@import "~@nore/css-defaults";
+
+.container {
+  display: flex;
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+}

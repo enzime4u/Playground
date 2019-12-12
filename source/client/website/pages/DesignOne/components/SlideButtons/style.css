@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 46ru;
+}
+
+.slideButton {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #eef2f8;
+  border: 1px solid #b8b8b8;
+  padding: 2ru;
+  margin-right: 10px;
+}
+
+.slideButton:first-child {
+  background-color: #646464;
+}

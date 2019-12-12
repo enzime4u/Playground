@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  width: 100%;
+  height: 85%;
+  align-items: center;
+  padding: 16ru;
+  background-image: url("nike.png");
+  background-position: center center;
+  background-size: 30vw auto;
+  justify-content: space-between;
+}

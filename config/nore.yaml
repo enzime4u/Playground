@@ -3,6 +3,7 @@ url: http://playground.nore
 aliases:
   $components: ~/client/components
   $client: ~/client
+  $assets: public
 
 client:
   template:
